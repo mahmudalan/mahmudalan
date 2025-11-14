@@ -49,8 +49,8 @@ I also have a demonstrated ability to integrate hardware and software solutions 
 
 ## 📊 GitHub Stats
 
-![Mahmud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Mahmud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmudalan&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudalan&layout=compact&theme=tokyonight)
 
 ---
 
