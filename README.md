@@ -38,7 +38,7 @@ I also have a demonstrated ability to integrate hardware and software solutions 
 ---
 
 ## 📌 Featured Projects
-- 🐾 **Cathouse Monitoring System** — IoT-based smart shelter for tuxedo cats (sensors + Android control app)  
+- 🐾 **NekoNest** — IoT-based smart shelter for tuxedo cats (sensors + Android control app)  
 - 📱 **Recipe Mobile App** — Flutter app with Firebase backend, category filters, ratings, and login system  
 - 🔐 **Smart Door Access System** — ESP32 RFID, Telegram Bot, and LCD display integration  
 - 🌦️ **Weather App** — Flutter app with dynamic UI based on weather & time  
@@ -57,6 +57,7 @@ I also have a demonstrated ability to integrate hardware and software solutions 
 ## 🌐 Connect With Me
 - 📫 Email: mahmudalan873.gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/mahmud-al-ansor-rulloh-738007391/
+- 🅾  Instagram: https://www.instagram.com/mhmudalannn/
 
 ---
 
