@@ -55,9 +55,8 @@ I also have a demonstrated ability to integrate hardware and software solutions 
 ---
 
 ## 🌐 Connect With Me
-- 📫 Email: your.email@example.com  
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
-- 📂 Portfolio: (jika punya)
+- 📫 Email: mahmudalan873.gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/mahmud-al-ansor-rulloh-738007391/
 
 ---
 
